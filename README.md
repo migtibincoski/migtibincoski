@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @MigPlayer6032
+- 👀 I’m interested in program in Node.js and HTML websites.
+- 🌱 I’m currently learning Node.js, HTML and CSS.
