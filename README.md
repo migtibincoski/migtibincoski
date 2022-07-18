@@ -5,10 +5,9 @@
 - I currently live in Içara, Santa Catarina. I love programming, and I plan to work with it in the future.
 
 ## Contact
-You can choose a method to talk to me. My social networks are below:
+You can choose a method to talk to me. My social networks are behind:
 
-
-![Gmail]() E-mail <tibincoskimiguel@gmail.com>
-![Discord]() Discord <MigPlayer#3106>
-![Twitter]() Twitter <@migtibincoski>
-![Github]() Github 
+📨 E-mail: tibincoskimiguel@gmail.com> <br>
+💬 Discord: MigPlayer#3106<br>
+🐦 Twitter: [@migtibincoski](//twitter.com/migtibincoski)<br>
+😼 Github: [MigPlayer6032](../../../)<br>
