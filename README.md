@@ -13,7 +13,7 @@ You can choose a method to talk to me. My social networks are behind:
 🖼️ Pinterest: [@migtibincoski](https://pinterest.com/tibincoskimiguel)<br>
 😼 Github: [MigPlayer6032](https://github.com/MigPlayer6032)<br>
 💻 Google Developer Profile: [Miguel Tibincoski](https://g.dev/migueltibincoski)<br>
-📦 Codepen: [MigPlayer6033](https://codepen.io/MigPlayer6032)
+📦 Codepen: [MigPlayer6032](https://codepen.io/MigPlayer6032)
 
 ## My Profile on GitHub
 
