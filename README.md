@@ -15,6 +15,8 @@ You can choose a method to talk to me. My social networks are behind:
 💻 Google Developer Profile: [Miguel Tibincoski](https://g.dev/migueltibincoski)<br>
 📦 Codepen: [MigPlayer6032](https://codepen.io/MigPlayer6032)
 
+<a href="https://github.com/MigPlayer6032"><img src="https://komarev.com/ghpvc/?username=MigPlayer6032&color=4169e1&style=for-the-badge" /></a>
+
 ## My Profile on GitHub
 
 <a href="https://github.com/MigPlayer6032/?"><img alt="Miguel Github Stats" src="https://github-readme-stats.vercel.app/api?username=MigPlayer6032&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
