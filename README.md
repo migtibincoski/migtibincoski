@@ -19,6 +19,6 @@ You can choose a method to talk to me. My social networks are behind:
 
 ## My Profile on GitHub
 
-<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel Github Stats" src="https://github-readme-stats.vercel.app/api?username=MigPlayer6032&show_icons=true&theme=dark&bg_color=060A0CD0&hide_border=true" /></a><br />
-<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MigPlayer6032&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" /></a><br />
-<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigPlayer6032&theme=dark&langs_count=5&compact=true&count_private=true&hide_border=true&bg_color=060A0CD0" /></a>
+<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel Github Stats" src="https://github-readme-stats.vercel.app/api?username=MigPlayer6032&show_icons=true&theme=dark&bg_color=060A0CD0&hide_border=true&border_radius=5&cache_seconds=900&locale=pt-BR" /></a><br />
+<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MigPlayer6032&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0&border_radius=5&cache_seconds=900&locale=pt-BR" /></a><br />
+<a href="https://github.com/MigPlayer6032/?"><img alt="Miguel Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigPlayer6032&theme=dark&langs_count=5&compact=true&count_private=true&hide_border=true&bg_color=060A0CD0&layout=compact&border_radius=5&cache_seconds=900&locale=pt-BR&card_width=445" /></a>
