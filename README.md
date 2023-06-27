@@ -9,7 +9,7 @@
 You can choose a method to talk to me. My social networks are behind:
 
 📨 E-mail: tibincoskimiguel@gmail.com <br>
-💬 Discord: [MigPlayer#3106](https://discord.com/users/771746692327538738)<br>
+💬 Discord: [@migtibincoski / MigPlayer#3106](https://discord.com/users/771746692327538738)<br>
 🖼️ Pinterest: [@migtibincoski](https://pinterest.com/tibincoskimiguel)<br>
 😼 Github: [MigPlayer6032](https://github.com/MigPlayer6032)<br>
 💻 Google Developer Profile: [Miguel Tibincoski](https://g.dev/migueltibincoski)<br>
