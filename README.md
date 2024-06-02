@@ -9,8 +9,8 @@
 You can choose a method to talk to me. My social networks are behind:
 
 📨 E-mail: tibincoskimiguel+github@gmail.com <br>
-📷 Instagram: [@miguel.tibincoski](https://instagram.com/miguel.tibincoski)
-🐦 X (antigo Twitter): [@migtibincoski](https://x.com/migtibincoski)
+📷 Instagram: [@miguel.tibincoski](https://instagram.com/miguel.tibincoski)<br>
+🐦 X (antigo Twitter): [@migtibincoski](https://x.com/migtibincoski)<br>
 💬 Discord: [@migtibincoski / MigPlayer#3106](https://discord.com/users/771746692327538738)<br>
 🖼️ Pinterest: [@migtibincoski](https://pinterest.com/tibincoskimiguel)<br>
 😼 Github: [MigPlayer6032](https://github.com/MigPlayer6032)<br>
