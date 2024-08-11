@@ -1,8 +1,8 @@
 ### <div align="center">I'm Miguel, a junior developer 👨‍💻 studying since 2020 🚀</div>  
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=MigPlayer6032&&style=for-the-badge" align="center" /> </div> 
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" /> </div> 
 <br />
 
-- 🔭 I’m currently working on [Schoolish](https://github.com/MigPlayer6032/schoolish)  
+- 🔭 I’m currently working on [Schoolish](https://github.com/Schoolish-Official/schoolish)  
   
 
 - 🌱 I’m currently learning React.js, HTML, CSS & JS  
@@ -47,8 +47,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/MigPlayer6032" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://github.com/migtibincoski" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/migtibincoski" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -62,7 +62,7 @@
 <a href="https://codepen.com/MigPlayer6032" target="_blank">
 <img src=https://img.shields.io/badge/codepen-%23131417.svg?&style=for-the-badge&logo=codepen&logoColor=white alt=codepen style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/lionsound.official" target="_blank">
+<a href="https://www.youtube.com/@lionsound.official" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
@@ -74,11 +74,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MigPlayer6032&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=migtibincoski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MigPlayer6032&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migtibincoski&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
 
