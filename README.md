@@ -1,6 +1,6 @@
 ### <div align="center">I'm Miguel, a junior developer 👨‍💻 studying since 2020 🚀</div>  
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" /> 
-![Discord](https://lanyard-profile-readme.vercel.app/api/771746692327538738?idleMessage=Probably%20doing%20something%20else)</div> 
+<div align="center" style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/771746692327538738?idleMessage=Probably%20doing%20something%20else" align="center"/></div> 
 <br />
 
 - 🔭 I’m currently working on [Schoolish](https://github.com/Schoolish-Official/schoolish)  
