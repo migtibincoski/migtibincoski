@@ -1,5 +1,6 @@
 ### <div align="center">I'm Miguel, a junior developer 👨‍💻 studying since 2020 🚀</div>  
-<div align="center" style="text-align: center;"> <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" />
+<div align="center" style="text-align: center;">
+  <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" /><br /><br />
   <img src="https://lanyard-profile-readme.vercel.app/api/771746692327538738?idleMessage=Probably%20doing%20something%20else" align="center"/></div> 
 <br />
 
@@ -75,11 +76,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=migtibincoski&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=migtibincoski&show_icons=true&count_private=true&hide_border=true&theme=dark" align="center" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migtibincoski&hide_border=true&layout=compact" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migtibincoski&hide_border=true&layout=compact&theme=dark" align="left" />
 
 </td></tr></table>  
 
