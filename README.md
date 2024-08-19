@@ -4,7 +4,7 @@
   <img src="https://lanyard-profile-readme.vercel.app/api/771746692327538738?idleMessage=Probably%20doing%20something%20else" align="center"/></div> 
 <br />
 
-- 🔭 I’m currently working on [Schoolish](https://github.com/Schoolish-Official/schoolish)  
+- 🔭 I’m currently working as a freelancer. Schedule a meeting by clicking [here](#)  
   
 
 - 🌱 I’m currently learning React.js, HTML, CSS & JS  
