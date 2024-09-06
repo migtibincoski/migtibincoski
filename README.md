@@ -1,7 +1,9 @@
 ### <div align="center">I'm Miguel, a junior developer 👨‍💻 studying since 2020 🚀</div>  
 <div align="center" style="text-align: center;">
-  <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" /><br /><br />
-<br /> 
+  <img src="https://komarev.com/ghpvc/?username=migtibincoski&&style=for-the-badge" align="center" />
+</div>
+
+<br />
   
 
 - 🌱 I’m currently learning React.js, HTML, CSS & JS  
